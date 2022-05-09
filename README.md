@@ -11,8 +11,4 @@
     - add support for command-line parameters & options (Ej. strip_comments origin.c)
     
     - test, test, test...
-
-| grupo | integrantes | nota |
-| --- | --- | --- |
-| G1 | perez | 6.50 |
-| G3 | adalberti charrúa | 7.25 |
+    
